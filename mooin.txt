@@ -35,7 +35,7 @@ Plugins:
 - mod_simplecertificate (https://moodle.org/plugins/mod_simplecertificate)
 
 Files:
-- moodle/courseinfo.php
+- moodle/courseinfo.php (https://github.com/oncampus/mooin)
 
 Moodle configuration:
 - customusermenuitems:
